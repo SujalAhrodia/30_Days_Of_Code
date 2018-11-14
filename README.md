@@ -11,8 +11,8 @@ You may assume that each input would have exactly one solution, and you may not 
 >1. Declare  variables: one of type int, one of type double, and one of type String.
     Read  lines of input from stdin (according to the sequence given in the Input Format section below) and initialize your variables. 
     Use the  operator to perform the following operations: 
-    -Print the sum of  plus your int variable on a new line.
-    -Print the sum of  plus your double variable to a scale of one decimal place on a new line.
-    -Concatenate  with the string you read as input and print the result on a new line.
+    Print the sum of  plus your int variable on a new line.
+    Print the sum of  plus your double variable to a scale of one decimal place on a new line.
+    Concatenate  with the string you read as input and print the result on a new line.
 >2. Given a 32-bit signed integer, reverse digits of an integer. For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows.
 >3. Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
