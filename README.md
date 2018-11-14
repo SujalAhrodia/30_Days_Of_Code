@@ -16,3 +16,6 @@ You may assume that each input would have exactly one solution, and you may not 
     Concatenate  with the string you read as input and print the result on a new line.
 >2. Given a 32-bit signed integer, reverse digits of an integer. For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows.
 >3. Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
+### Day 2
+>1. Given the meal price (base cost of a meal), tip percent (the percentage of the meal price being added as tip), and tax percent (the percentage of the meal price being added as tax) for a meal, find and print the meal's total cost.
+>Note: Be sure to use precise values for your calculations, or you may end up with an incorrectly rounded result!
