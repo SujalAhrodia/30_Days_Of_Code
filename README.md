@@ -14,3 +14,5 @@ You may assume that each input would have exactly one solution, and you may not 
     -Print the sum of  plus your int variable on a new line.
     -Print the sum of  plus your double variable to a scale of one decimal place on a new line.
     -Concatenate  with the string you read as input and print the result on a new line.
+>2. Given a 32-bit signed integer, reverse digits of an integer. For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows.
+
