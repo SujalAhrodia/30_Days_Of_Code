@@ -24,4 +24,10 @@ You may assume that each input would have exactly one solution, and you may not 
 >Note: Be sure to use precise values for your calculations, or you may end up with an incorrectly rounded result!
 
 >2. Given a roman numeral, convert it to an integer. Input is guaranteed to be within the range from 1 to 3999.
+### Day 3
+>1. Given an integer, , perform the following conditional actions:
+If  is odd, print Weird
+If  is even and in the inclusive range of  to , print Not Weird
+If  is even and in the inclusive range of  to , print Weird
+If  is even and greater than , print Not Weird
 
