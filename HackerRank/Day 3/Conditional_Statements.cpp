@@ -8,16 +8,10 @@ int main()
     cin >> N;
     cin.ignore(numeric_limits<streamsize>::max(), '\n');
 
-    if(N%2 !=0)
-        cout<<"Weird"<<endl;
-    else 
-    {
-        if(N>=2 && N<=5)
-            cout<<"Not Weird"<<endl;
-        else if(N>=6 && N<=20)
-            cout<<"Weird"<<endl;
-        else
-            cout<<"Not Weird"<<endl;
-    }
+    if( N%2 == 1 || (N > 5 && N < 21))
+        cout<<"Weird";
+    else
+        cout<<"Not Weird";
+
     return 0;
 }
