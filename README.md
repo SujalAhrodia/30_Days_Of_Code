@@ -30,4 +30,5 @@ If  is odd, print Weird
 If  is even and in the inclusive range of  to , print Not Weird
 If  is even and in the inclusive range of  to , print Weird
 If  is even and greater than , print Not Weird
-
+>2. Write a function to find the longest common prefix string amongst an array of strings.
+If there is no common prefix, return an empty string "".
