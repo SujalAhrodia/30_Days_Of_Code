@@ -32,3 +32,11 @@ If  is even and in the inclusive range of  to , print Weird
 If  is even and greater than , print Not Weird
 >2. Write a function to find the longest common prefix string amongst an array of strings.
 If there is no common prefix, return an empty string "".
+### Day 4
+>1. Write a Person class with an instance variable, , and a constructor that takes an integer, , as a parameter. The constructor must assign  to  after confirming the argument passed as  is not negative; if a negative argument is passed as , the constructor should set  to  and print Age is not valid, setting age to 0.. In addition, you must write the following instance methods:
+yearPasses() should increase the  instance variable by .
+amIOld() should perform the following conditional actions:
+If , print You are young..
+If  and , print You are a teenager..
+Otherwise, print You are old..
+To help you learn by example and complete this challenge, much of the code is provided for you, but you'll be writing everything in the future. The code that creates each instance of your Person class is in the main method. Don't worry if you don't understand it all quite yet!
