@@ -1,6 +1,6 @@
 # 30_Days_Of_Code
 
-## 30 Days of Code started on Novemer 13th 2018.
+## 30 Days of Code started on Novemer 12th 2018.
 Will be solving one problem each on HackerRank and LeetCode
 
 #### Day 0 
@@ -40,3 +40,9 @@ If , print You are young..
 If  and , print You are a teenager..
 Otherwise, print You are old..
 To help you learn by example and complete this challenge, much of the code is provided for you, but you'll be writing everything in the future. The code that creates each instance of your Person class is in the main method. Don't worry if you don't understand it all quite yet!
+
+>2. Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+An input string is valid if:
+Open brackets must be closed by the same type of brackets.
+Open brackets must be closed in the correct order.
+Note that an empty string is also considered valid.
