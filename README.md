@@ -48,3 +48,7 @@ Open brackets must be closed in the correct order.
 Note that an empty string is also considered valid.
 ### Day 5
 >1. Given an integer, , print its first  multiples. Each multiple  (where ) should be printed on a new line in the form: n x i = result.
+>2. Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.
+Example:
+Input: 1->2->4, 1->3->4
+Output: 1->1->2->3->4->4
