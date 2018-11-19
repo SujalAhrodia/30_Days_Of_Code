@@ -55,3 +55,6 @@ Output: 1->1->2->3->4->4
 ### Day 6
 >1. Given a string, , of length  that is indexed from  to , print its even-indexed and odd-indexed characters as  space-separated strings on a single line (see the Sample below for more detail).
 Note:  is considered to be an even index.
+>2. Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
+Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
+
