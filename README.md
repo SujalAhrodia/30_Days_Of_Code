@@ -52,3 +52,6 @@ Note that an empty string is also considered valid.
 Example:
 Input: 1->2->4, 1->3->4
 Output: 1->1->2->3->4->4
+### Day 6
+>1. Given a string, , of length  that is indexed from  to , print its even-indexed and odd-indexed characters as  space-separated strings on a single line (see the Sample below for more detail).
+Note:  is considered to be an even index.
