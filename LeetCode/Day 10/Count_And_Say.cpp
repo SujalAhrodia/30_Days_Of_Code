@@ -11,6 +11,11 @@
 9.  31131211131221
 10. 13211311123113112211
 
+
+str.append(var1, var2); 
+appends var2 to str var1 times.
+eg: str.append(1,3);
+str: "3"
 */
 
 class Solution {
