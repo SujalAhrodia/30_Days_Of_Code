@@ -73,3 +73,5 @@ You may assume no duplicates in the array.
 >2. Write a factorial function that takes a positive integer as a parameter and print its factorial.
 ### Day 10
 >1. Given a base-10 integer, convert it to binary base-2. Then find and print the maximum number of consecutive 1's in the binary representation.
+>2. Given an integer n where 1 ≤ n ≤ 30, generate the nth term of the count-and-say sequence.
+Note: Each term of the sequence of integers will be represented as a string.
