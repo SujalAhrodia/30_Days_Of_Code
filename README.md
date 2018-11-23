@@ -71,3 +71,5 @@ For the purpose of this problem, we will return 0 when needle is an empty string
 >1. Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
 You may assume no duplicates in the array.
 >2. Write a factorial function that takes a positive integer as a parameter and print its factorial.
+### Day 10
+>1. Given a base-10 integer, convert it to binary base-2. Then find and print the maximum number of consecutive 1's in the binary representation.
