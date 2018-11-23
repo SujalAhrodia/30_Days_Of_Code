@@ -75,3 +75,5 @@ You may assume no duplicates in the array.
 >1. Given a base-10 integer, convert it to binary base-2. Then find and print the maximum number of consecutive 1's in the binary representation.
 >2. Given an integer n where 1 ≤ n ≤ 30, generate the nth term of the count-and-say sequence.
 Note: Each term of the sequence of integers will be represented as a string.
+### Day 11
+>1. Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
