@@ -78,3 +78,11 @@ Note: Each term of the sequence of integers will be represented as a string.
 ### Day 11
 >1. Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
 >2. Calculate the hourglass sum for every hourglass in a 2D Array, then print the maximum hourglass sum.
+### Day 12
+>1. You are given two classes, Person and Student, where Person is the base class and Student is the derived class. Completed code for Person and a declaration for Student are provided for you in the editor. Observe that Student inherits all the properties of Person.
+A Student class constructor, which has  parameters:
+A string, firstName.
+A string, lastName.
+An integer, id.
+An integer array (or vector) of test scores.
+A char calculate() method that calculates a Student object's average and returns the grade character representative of their calculated average.
