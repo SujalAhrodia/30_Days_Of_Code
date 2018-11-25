@@ -38,7 +38,6 @@ class Student :  public Person{
         // Write your constructor here
         Student(string firstName, string lastName, int id, vector<int> scores): Person(firstName, lastName, id)
         {
-            Person(firstName, lastName, id);
             this->testScores = scores;
         }
         /*	
