@@ -88,3 +88,7 @@ An integer array (or vector) of test scores.
 A char calculate() method that calculates a Student object's average and returns the grade character representative of their calculated average.
 >2. Given a string s consists of upper/lower-case alphabets and empty space characters '  ', return the length of last word in the string.
 If the last word does not exist, return 0.
+### Day 13
+>1. Given a non-empty array of digits representing a non-negative integer, plus one to the integer.
+The digits are stored such that the most significant digit is at the head of the list, and each element in the array contain a single digit.
+You may assume the integer does not contain any leading zero, except the number 0 itself.
