@@ -20,9 +20,8 @@ class Difference {
     void computeDifference()
     {
         vector<int> temp = this->elements;
-        sort(temp.begin(), temp.end());
-
         this->maximumDifference= 0;
+        
         for(int i=0; i<temp.size()-1; i++)
         {
             for(int j=i+1; j<temp.size(); j++)
