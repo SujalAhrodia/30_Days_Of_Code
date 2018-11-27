@@ -101,3 +101,5 @@ A class constructor that takes an array of integers as a parameter and saves it 
 A computeDifference method that finds the maximum absolute difference between any 2 numbers in 'elements' and stores it in the  'maximumdifference' instance variable.
 >2. Given two binary strings, return their sum (also a binary string).
 The input strings are both non-empty and contains only characters 1 or 0.
+### Day 15
+>1. Complete the insert function in your editor so that it creates a new Node(data) and inserts it at the tail of the linked list referenced by the 'head' parameter. Once the new node is added, return the reference to the 'head' node.
