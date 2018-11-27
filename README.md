@@ -93,13 +93,11 @@ If the last word does not exist, return 0.
     The digits are stored such that the most significant digit is at the head of the list, and each element in the array contain a single digit.
 You may assume the integer does not contain any leading zero, except the number 0 itself.
 >2. Given a Book class and a Solution class, write a MyBook class that does the following: 
->>Inherits from Book: Has a parameterized constructor taking these  parameters:
->>>* string Title
->>>* string Author
->>>* int Price
-
->>Implements the Book class' abstract display() method so it prints the value of above parameters.
+Inherits from Book: Has a parameterized constructor taking these  parameters: (i) string Title , (ii) string Author, (iii) int Price.
+Implements the Book class' abstract display() method so it prints the value of above parameters.
 ### Day 14
 >1. Complete the Difference class by writing the following:
 A class constructor that takes an array of integers as a parameter and saves it to the 'elements' instance variable.
 A computeDifference method that finds the maximum absolute difference between any 2 numbers in 'elements' and stores it in the  'maximumdifference' instance variable.
+>2. Given two binary strings, return their sum (also a binary string).
+The input strings are both non-empty and contains only characters 1 or 0.
