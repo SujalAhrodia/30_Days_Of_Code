@@ -103,3 +103,6 @@ A computeDifference method that finds the maximum absolute difference between an
 The input strings are both non-empty and contains only characters 1 or 0.
 ### Day 15
 >1. Complete the insert function in your editor so that it creates a new Node(data) and inserts it at the tail of the linked list referenced by the 'head' parameter. Once the new node is added, return the reference to the 'head' node.
+>2. Implement int sqrt(int x).
+Compute and return the square root of x, where x is guaranteed to be a non-negative integer.
+Since the return type is an integer, the decimal digits are truncated and only the integer part of the result is returned.
