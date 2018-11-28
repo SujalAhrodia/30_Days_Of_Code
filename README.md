@@ -106,3 +106,6 @@ The input strings are both non-empty and contains only characters 1 or 0.
 >2. Implement int sqrt(int x).
 Compute and return the square root of x, where x is guaranteed to be a non-negative integer.
 Since the return type is an integer, the decimal digits are truncated and only the integer part of the result is returned.
+### Day 16
+>1. Read a string,'S', and print its integer value; if  cannot be converted to an integer, print 'Bad String'.
+Note: You must use the String-to-Integer and exception handling constructs built into your submission language. If you attempt to use loops/conditional statements, you will get a '0'score.
