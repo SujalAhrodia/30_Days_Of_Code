@@ -109,3 +109,6 @@ Since the return type is an integer, the decimal digits are truncated and only t
 ### Day 16
 >1. Read a string,'S', and print its integer value; if  cannot be converted to an integer, print 'Bad String'.
 Note: You must use the String-to-Integer and exception handling constructs built into your submission language. If you attempt to use loops/conditional statements, you will get a '0'score.
+>2. You are climbing a stair case. It takes n steps to reach to the top.
+Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
+Note: Given n will be a positive integer
