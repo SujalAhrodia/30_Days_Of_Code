@@ -114,3 +114,6 @@ Each time you can either climb 1 or 2 steps. In how many distinct ways can you c
 Note: Given n will be a positive integer
 >3. You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
+### Day 17
+>1. Write a Calculator class with a single method: int power(int,int). The power method takes two integers 'n' and 'p', as parameters and returns the integer result of n^p. If either n or p is negative, then the method must throw an exception with the message: n and p should be non-negative.
+Note: Do not use an access modifier (e.g.: public) in the declaration for your Calculator class.
