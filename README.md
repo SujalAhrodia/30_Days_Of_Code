@@ -125,3 +125,7 @@ A void pushCharacter(char ch) method that pushes a character onto a stack.
 A void enqueueCharacter(char ch) method that enqueues a character in the queue.
 A char popCharacter() method that pops and returns the character at the top of the stack.
 A char dequeueCharacter() method that dequeues and returns the first character in the queue.
+>2. Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array.
+Note:
+The number of elements initialized in nums1 and nums2 are m and n respectively.
+You may assume that nums1 has enough space (size that is greater or equal to m + n) to hold additional elements from nums2.
