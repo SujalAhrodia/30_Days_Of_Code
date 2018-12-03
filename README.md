@@ -136,3 +136,4 @@ Complete the implementation of Calculator class, which implements the AdvancedAr
 Two binary trees are considered the same if they are structurally identical and the nodes have the same value.
 ### Day 20
 >1. Given an array, of size 'n' distinct elements, sort the array in ascending order using the Bubble Sort algorithm. Print the total number of swaps, first and the last element of sorted array.
+>2. Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center).
