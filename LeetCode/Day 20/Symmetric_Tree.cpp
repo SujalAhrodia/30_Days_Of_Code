@@ -1,0 +1,36 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ * };
+ */
+ 
+ /*
+ Recursive solution
+ 
+ conditions:
+ 1. value of root is equal
+ 2. root1's left subtree is mirror of root2's right subtree
+ 
+ */
+class Solution {
+public:
+    bool check(TreeNode* root1, TreeNode* root2)
+    {
+        if(!root1 && !root2)
+            return true;
+        
+        if(root1 && root2 && root1->val == root2->val)
+        {
+            return check(root1->left, root2->right) && check(root1->right, root2->left);
+        }
+        return false;
+    }
+    bool isSymmetric(TreeNode* root) 
+    {
+        return check(root, root);
+    }
+};
