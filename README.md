@@ -142,3 +142,8 @@ Two binary trees are considered the same if they are structurally identical and 
 Note: You must use generics to solve this challenge. Do not write overloaded functions.
 ### Day 22
 >1. The height of a binary search tree is the number of edges between the tree's root and its furthest leaf. You are given a pointer 'root', pointing to the root of a binary search tree. Complete the getHeight function provided in your editor so that it returns the height of the binary search tree.
+### Day 23
+>1. Complete the levelOrder function provided in your editor so that it prints the level-order traversal of the binary search tree. Hint: You'll find a queue helpful in completing this challenge.
+### Day 24
+>1. A removeDuplicates function is declared in your editor, which takes a pointer to the  node of a linked list as a parameter. Complete removeDuplicates so that it deletes any duplicate nodes from the list and returns the head of the updated list.
+Note: The  pointer may be null, indicating that the list is empty. Be sure to reset your  pointer when performing deletions to avoid breaking the list.
