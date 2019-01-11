@@ -158,4 +158,4 @@ If the book is returned after the expected return month but still within the sam
 If the book is returned after the calendar year in which it was expected, there is a fixed fine of 10000.
 Input Format
 ### Day27
->1. Since the problem is not explained proeprly, please check it [here](https://www.hackerrank.com/challenges/30-testing/problem)
+>1. Since the problem is not explained properly, please check it [here](https://www.hackerrank.com/challenges/30-testing/problem)
