@@ -150,3 +150,10 @@ Note: The  pointer may be null, indicating that the list is empty. Be sure to re
 ### Day 25
 >1. A prime is a natural number greater than 1 that has no positive divisors other than 1 and itself. Given a number, n, determine and print whether it's prime or not.
 Note: If possible, try to come up with a O(sqrt(n)) primality algorithm, or see what sort of optimizations you come up with for an O(n) algorithm. Be sure to check out the Editorial after submitting your code!
+### Day 26
+>1. Your local library needs your help! Given the expected and actual return dates for a library book, create a program that calculates the fine (if any). The fee structure is as follows:
+If the book is returned on or before the expected return date, no fine will be charged (i.e. fine=0).
+If the book is returned after the expected return day but still within the same calendar month and year as the expected return date, 15* no. of days.
+If the book is returned after the expected return month but still within the same calendar year as the expected return date, then 500* no. of months .
+If the book is returned after the calendar year in which it was expected, there is a fixed fine of 10000.
+Input Format
