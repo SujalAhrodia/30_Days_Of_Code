@@ -157,3 +157,5 @@ If the book is returned after the expected return day but still within the same 
 If the book is returned after the expected return month but still within the same calendar year as the expected return date, then 500* no. of months .
 If the book is returned after the calendar year in which it was expected, there is a fixed fine of 10000.
 Input Format
+### Day27
+>1. Since the problem is not explained proeprly, please check it [here](https://www.hackerrank.com/challenges/30-testing/problem)
