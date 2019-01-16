@@ -159,3 +159,5 @@ If the book is returned after the calendar year in which it was expected, there 
 Input Format
 ### Day27
 >1. Since the problem is not explained properly, please check it [here](https://www.hackerrank.com/challenges/30-testing/problem)
+### Day 28
+>1. Consider a database table, Emails, which has the attributes First Name and Email ID. Given N rows of data simulating the Emails table, print an alphabetically-ordered list of people whose email address ends in @gmail.com.
