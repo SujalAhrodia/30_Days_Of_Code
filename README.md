@@ -161,3 +161,5 @@ Input Format
 >1. Since the problem is not explained properly, please check it [here](https://www.hackerrank.com/challenges/30-testing/problem)
 ### Day 28
 >1. Consider a database table, Emails, which has the attributes First Name and Email ID. Given N rows of data simulating the Emails table, print an alphabetically-ordered list of people whose email address ends in @gmail.com.
+### Day29
+>1.Given set S={1,2,3,...N}. Find two integers, A and B (where A<B), from set S such that the value of A&B is the maximum possible and also less than a given integer, K. In this case, & represents the bitwise AND operator.
