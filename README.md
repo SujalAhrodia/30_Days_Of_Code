@@ -144,6 +144,9 @@ Note: You must use generics to solve this challenge. Do not write overloaded fun
 Note: A leaf is a node with no children.
 ### Day 22
 >1. The height of a binary search tree is the number of edges between the tree's root and its furthest leaf. You are given a pointer 'root', pointing to the root of a binary search tree. Complete the getHeight function provided in your editor so that it returns the height of the binary search tree.
+>2. Given a non-empty array of integers, every element appears twice except for one. Find that single one.
+Note:
+Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
 ### Day 23
 >1. Complete the levelOrder function provided in your editor so that it prints the level-order traversal of the binary search tree. Hint: You'll find a queue helpful in completing this challenge.
 ### Day 24
