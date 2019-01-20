@@ -149,6 +149,8 @@ Note:
 Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
 ### Day 23
 >1. Complete the levelOrder function provided in your editor so that it prints the level-order traversal of the binary search tree. Hint: You'll find a queue helpful in completing this challenge.
+>2. Given an array of size n, find the majority element. The majority element is the element that appears more than ⌊ n/2 ⌋ times.
+You may assume that the array is non-empty and the majority element always exist in the array.
 ### Day 24
 >1. A removeDuplicates function is declared in your editor, which takes a pointer to the  node of a linked list as a parameter. Complete removeDuplicates so that it deletes any duplicate nodes from the list and returns the head of the updated list.
 Note: The  pointer may be null, indicating that the list is empty. Be sure to reset your  pointer when performing deletions to avoid breaking the list.
