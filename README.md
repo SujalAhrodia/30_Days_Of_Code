@@ -167,6 +167,8 @@ If the book is returned after the expected return day but still within the same 
 If the book is returned after the expected return month but still within the same calendar year as the expected return date, then 500* no. of months .
 If the book is returned after the calendar year in which it was expected, there is a fixed fine of 10000.
 Input Format
+>2. Given a binary tree, determine if it is height-balanced.
+For this problem, a height-balanced binary tree is defined as: a binary tree in which the depth of the two subtrees of every node never differ by more than 1.
 ### Day27
 >1. Since the problem is not explained properly, please check it [here](https://www.hackerrank.com/challenges/30-testing/problem)
 ### Day 28
