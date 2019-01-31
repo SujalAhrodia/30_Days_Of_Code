@@ -158,6 +158,8 @@ Note: The  pointer may be null, indicating that the list is empty. Be sure to re
 ### Day 25
 >1. A prime is a natural number greater than 1 that has no positive divisors other than 1 and itself. Given a number, n, determine and print whether it's prime or not.
 Note: If possible, try to come up with a O(sqrt(n)) primality algorithm, or see what sort of optimizations you come up with for an O(n) algorithm. Be sure to check out the Editorial after submitting your code!
+>2. Given an array where elements are sorted in ascending order, convert it to a height balanced BST.
+For this problem, a height-balanced binary tree is defined as a binary tree in which the depth of the two subtrees of every node never differ by more than 1.
 ### Day 26
 >1. Your local library needs your help! Given the expected and actual return dates for a library book, create a program that calculates the fine (if any). The fee structure is as follows:
 If the book is returned on or before the expected return date, no fine will be charged (i.e. fine=0).
