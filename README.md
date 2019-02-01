@@ -171,6 +171,9 @@ Input Format
 For this problem, a height-balanced binary tree is defined as: a binary tree in which the depth of the two subtrees of every node never differ by more than 1.
 ### Day27
 >1. Since the problem is not explained properly, please check it [here](https://www.hackerrank.com/challenges/30-testing/problem)
+>2. Given a binary tree, find its minimum depth.
+The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.
+Note: A leaf is a node with no children.
 ### Day 28
 >1. Consider a database table, Emails, which has the attributes First Name and Email ID. Given N rows of data simulating the Emails table, print an alphabetically-ordered list of people whose email address ends in @gmail.com.
 ### Day29
